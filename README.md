@@ -3,7 +3,7 @@
 ## Website for the CMSDAS MonoZ
 
 To start, you can follow the directions below. A summmary of the plan for the MonoZ group at the Data Analysis School is can be found in the main website [here](https://submit.mit.edu/~freerc/MonoZ_CMSDAS/index.html).
-
+Another website is [here](https://cmsdas-long-mono-z-hyderabad.docs.cern.ch/).
 There, you will also find introduction to the physics, and explanations on each step of the school. 
 
 Finally, 
