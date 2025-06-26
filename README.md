@@ -13,6 +13,7 @@ Welcome to CMS!
 Choose a port such as 8099 and connect to lxplus. This port should be used for jupyter as well
 ```
 ssh -L localhost:8NNN:localhost:8NNN lxplus.cern.ch
+
 ```
 
 ## Clone and run the setup once
