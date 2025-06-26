@@ -18,6 +18,8 @@ ssh -L localhost:8NNN:localhost:8NNN lxplus.cern.ch
 ## Clone and run the setup once
 ```
 git clone git@github.com:shachary0201/CMSDAS-MonoZ-Tutorial-2025-IITH.git
+or
+git clone https://github.com/shachary0201/CMSDAS-MonoZ-Tutorial-2025-IITH.git
 cd CMSDAS-MonoZ-Tutorial-2025-IITH
 sh bootstrap.sh
 ```
