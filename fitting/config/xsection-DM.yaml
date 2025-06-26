@@ -462,109 +462,109 @@ DMSimp_MonoZLL_NLO_Vector_1000_MXd-600:
   br: 1.0
   kr: 1.0
   xsec: 0.00003208
-DMSimp_MonoZLL_Pseudo_1000_mxd-1:
+DMSimp_MonoZLL_Pseudo_1000_MXd-1:
   br: 1.0
   kr: 1.0
   xsec: 7.919e-06
-DMSimp_MonoZLL_Pseudo_500_mxd-1: 
+DMSimp_MonoZLL_Pseudo_500_MXd-1: 
   br: 1.0
   kr: 1.0
   xsec: 0.000113223302554
-DMSimp_MonoZLL_Pseudo_150_mxd-1:
+DMSimp_MonoZLL_Pseudo_150_MXd-1:
   br: 1.0
   kr: 1.0
   xsec: 0.001507
-DMSimp_MonoZLL_Pseudo_200_mxd-1:
+DMSimp_MonoZLL_Pseudo_200_MXd-1:
   br: 1.0
   kr: 1.0
   xsec: 0.001271
-DMSimp_MonoZLL_Pseudo_250_mxd-1:
+DMSimp_MonoZLL_Pseudo_250_MXd-1:
   br: 1.0
   kr: 1.0
   xsec: 0.001027
-DMSimp_MonoZLL_Pseudo_350_mxd-1: 
+DMSimp_MonoZLL_Pseudo_350_MXd-1: 
   br: 1.0
   kr: 1.0
   xsec: 0.000480267331741
-DMSimp_MonoZLL_Pseudo_300_mxd-1:
+DMSimp_MonoZLL_Pseudo_300_MXd-1:
   br: 1.0
   kr: 1.0
   xsec: 0.0008059
-DMSimp_MonoZLL_Pseudo_450_mxd-1:
+DMSimp_MonoZLL_Pseudo_450_MXd-1:
   br: 1.0
   kr: 1.0
   xsec: 0.0001627
-DMSimp_MonoZLL_Pseudo_400_mxd-1: 
+DMSimp_MonoZLL_Pseudo_400_MXd-1: 
   br: 1.0
   kr: 1.0
   xsec: 0.000248675004088
-DMSimp_MonoZLL_Pseudo_100_mxd-1: 
+DMSimp_MonoZLL_Pseudo_100_MXd-1: 
   br: 1.0
   kr: 1.0
   xsec: 0.001718656597104
-DMSimp_MonoZLL_Pseudo_50_mxd-1:
+DMSimp_MonoZLL_Pseudo_50_MXd-1:
   br: 1.0
   kr: 1.0
   xsec: 0.001887
-DMSimp_MonoZLL_Pseudo_10_mxd-1: 
+DMSimp_MonoZLL_Pseudo_10_MXd-1: 
   br: 1.0
   kr: 1.0
   xsec: 0.002013547719358
-DMSimp_MonoZLL_Pseudo_750_mxd-1:
+DMSimp_MonoZLL_Pseudo_750_MXd-1:
   br: 1.0
   kr: 1.0
   xsec: 2.61e-05
   
 
-DMSimp_MonoZLL_Scalar_1000_mxd-1:
+DMSimp_MonoZLL_Scalar_1000_MXd-1:
   br: 1.0
   kr: 1.0
   xsec: 8.372e-06
-DMSimp_MonoZLL_Scalar_450_mxd-1: 
+DMSimp_MonoZLL_Scalar_450_MXd-1: 
   br: 1.0
   kr: 1.0
   xsec: 0.000221009721426
-DMSimp_MonoZLL_Scalar_400_mxd-1:
+DMSimp_MonoZLL_Scalar_400_MXd-1:
   br: 1.0
   kr: 1.0
   xsec: 0.0003499
-DMSimp_MonoZLL_Scalar_500_mxd-1:
+DMSimp_MonoZLL_Scalar_500_MXd-1:
   br: 1.0
   kr: 1.0
   xsec: 0.0001463
-DMSimp_MonoZLL_Scalar_350_mxd-1: 
+DMSimp_MonoZLL_Scalar_350_MXd-1: 
   br: 1.0
   kr: 1.0
   xsec: 0.000560559476165
-DMSimp_MonoZLL_Scalar_300_mxd-1: 
+DMSimp_MonoZLL_Scalar_300_MXd-1: 
   br: 1.0
   kr: 1.0
   xsec: 0.000730292457720
-DMSimp_MonoZLL_Scalar_250_mxd-1: 
+DMSimp_MonoZLL_Scalar_250_MXd-1: 
   br: 1.0
   kr: 1.0
   xsec: 0.000927357430831
-DMSimp_MonoZLL_Scalar_200_mxd-1: 
+DMSimp_MonoZLL_Scalar_200_MXd-1: 
   br: 1.0
   kr: 1.0
   xsec: 0.001142714891753
-DMSimp_MonoZLL_Scalar_150_mxd-1: 
+DMSimp_MonoZLL_Scalar_150_MXd-1: 
   br: 1.0
   kr: 1.0
   xsec: 0.001349555971537
-DMSimp_MonoZLL_Scalar_50_mxd-1:
+DMSimp_MonoZLL_Scalar_50_MXd-1:
   br: 1.0
   kr: 1.0
   xsec: 0.001671
-DMSimp_MonoZLL_Scalar_100_mxd-1: 
+DMSimp_MonoZLL_Scalar_100_MXd-1: 
   br: 1.0
   kr: 1.0
   xsec: 0.001528795451661
-DMSimp_MonoZLL_Scalar_10_mxd-1: 
+DMSimp_MonoZLL_Scalar_10_MXd-1: 
   br: 1.0
   kr: 1.0
   xsec: 0.001782357069809
-DMSimp_MonoZLL_Scalar_750_mxd-1:
+DMSimp_MonoZLL_Scalar_750_MXd-1:
   br: 1.0
   kr: 1.0
   xsec: 2.911e-05
