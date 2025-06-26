@@ -17,7 +17,6 @@ for file in workspace_TEST_DMSimp_MonoZLL_*.root; do
     combine -M AsymptoticLimits \
         --datacard "$file" \
         -m 125 \
-        -t -1 \
         --name "$base_name" \
         --rMax=5 \
         --rMin=-10 \
