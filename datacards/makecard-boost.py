@@ -205,7 +205,7 @@ def main():
         #Shapes specific to certain backgrounds 
         if 'DY' not in p.name:
             card.add_qcd_scales(
-                name, "CMS_QCDScale{p.name}_{options.era}",
+                name, f"CMS_QCDScale{p.name}_{options.era}",
                 [p.get("QCDScale0"), p.get("QCDScale1"), p.get("QCDScale2")]
             )
         if 'WZ' in p.name:
